@@ -1,0 +1,2 @@
+order_id,date,customer_name,ship_address,sku_code,qty,retail,payment_ref,utm_creative_id,ae_product_url,ae_order_id,tracking,status,notes
+EXAMPLE-1001,YYYY-MM-DD,Jane Example,"123 Main St, City, ST 00000, US",{{SKU_CODE}},1,{{RETAIL}},,#{{BRAND}}_{{ANGLE}}_{{SKU_CODE}}_org-01,{{SUPPLIER_URL}},AE-ORDER-ID,TRACKING-OR-BLANK,pending_place,replace_or_delete_example_row
