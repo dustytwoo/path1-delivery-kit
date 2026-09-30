@@ -100,3 +100,10 @@ Assume payment cleared and brief received. Clock starts when **brief + access** 
 Prefer local kit under `/workspace/path1/delivery-kit/`. A public GitHub mirror may exist for sharing scrubbed templates with clients (see repo URL in this README after publish, or “local only” if auth unavailable).
 
 **GitHub:** see bottom of this file after publish step.
+
+---
+
+## GitHub mirror
+
+**Public repo:** https://github.com/dustytwoo/path1-delivery-kit  
+**Clone / share:** scrubbed templates only — Nestora appears solely in `PORTFOLIO.md` as build proof (**0 sales**).
